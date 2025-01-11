@@ -1,5 +1,4 @@
 ### 🎮 Fine Motor Skills Improvement Game for Stroke Patients
-
 This project is a set of interactive games designed to help stroke patients improve their fine motor skills.  
 The games provide engaging and therapeutic activities that target hand-eye coordination and precision.
 
@@ -28,7 +27,6 @@ This game was developed as part of the FSE100 team project. It includes three mi
 
 
 ### 🧠 Why This Game Helps Stroke Patients
-
 This game helps stroke patients improve **fine motor skills** through engaging and repetitive activities. Each mini-game targets specific abilities:  
 - **Rhythm Game**: Enhances timing and reaction speed.  
 - **Tracing Game**: Improves precision and steady hand control.  
@@ -52,8 +50,7 @@ This game helps stroke patients improve **fine motor skills** through engaging a
 
 ---
 
-## 👤 My Contributions
-
+### 👤 My Contributions
 As part of a collaborative team project, I contributed significantly to the development and design of the game. My specific contributions include:
 
 - **Stacking Game**: Led the development of the game mechanics, including object physics and collision handling.  
