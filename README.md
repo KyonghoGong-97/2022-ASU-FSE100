@@ -53,12 +53,13 @@ Each mini-game targets specific abilities:
 ---
 
 ### 👤 My Contributions
-As part of a collaborative team project, I contributed significantly to the development and design of the game. My specific contributions include:
+As part of a collaborative team project, I contributed significantly to the development and design of the game.  
+My specific contributions include:
 
 - **Stacking Game**: Led the development of the game mechanics, including object physics and collision handling.  
 - **Tracing Game**: Played a major role in coding the game logic for precision-based tracing activities.  
 - **Rhythm Game**: Provided support and assistance in developing the timing mechanics and overall functionality.  
-- **General Coding**: Implemented additional features, including the **information**, **exit**, and **contact** sections of the game.  
+- **General Coding**: Implemented additional features, such as **information**, **exit**, and **contact** sections of the game.  
 - **Design**: Designed the user interface and overall aesthetic for a cohesive and engaging user experience.  
 - **Report Writing**: Authored the project report, documenting objectives, methodologies, and outcomes.  
 
