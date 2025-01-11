@@ -28,7 +28,8 @@ It includes three mini-games, each designed to address specific motor skills:
 
 
 ### 🧠 Why This Game Helps Stroke Patients
-This game helps stroke patients improve **fine motor skills** through engaging and repetitive activities. Each mini-game targets specific abilities:  
+This game helps stroke patients improve **fine motor skills** through engaging and repetitive activities.  
+Each mini-game targets specific abilities:  
 - **Rhythm Game**: Enhances timing and reaction speed.  
 - **Tracing Game**: Improves precision and steady hand control.  
 - **Stacking Game**: Develops coordination and object manipulation skills.
@@ -67,9 +68,9 @@ This work was carried out in collaboration with my teammates, who contributed to
 
 
 ### 🕹️ **How to Use**
-1. Open the links provided for each mini-game in your browser.
-2. Interact with the games using your mouse as prompted.
-3. The games are designed to be simple and intuitive for stroke patients and their therapists.
+- Open the links provided for each mini-game in your browser.
+- Interact with the games using your mouse as prompted.
+- The games are designed to be simple and intuitive for stroke patients and their therapists.
 
 ---
 
@@ -90,5 +91,5 @@ You are not allowed to copy, distribute, or use this project for any purpose wit
 
 
 ### 📧 **Contact**
-For permissions or inquiries, please contact us at: **kgong059726@gmail.com**
+For permissions or inquiries, please contact us at:   **kgong059726@gmail.com**
 
