@@ -85,7 +85,7 @@ This work was carried out in collaboration with my teammates, who contributed to
 
 ### 📜 **License**
 This project is for **educational purposes only** and is **not intended for commercial use**.  
-You are not allowed to copy, distribute, or use this project for any purpose without prior permission from the authors.  
+⚠️ You are not allowed to copy, distribute, or use this project for any purpose without prior permission from the authors.  
 
 ---
 
