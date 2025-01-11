@@ -67,7 +67,7 @@ This work was carried out in collaboration with my teammates, who contributed to
 
 ### 🕹️ **How to Use**
 1. Open the links provided for each mini-game in your browser.
-2. Interact with the games using your mouse or keyboard as prompted.
+2. Interact with the games using your mouse as prompted.
 3. The games are designed to be simple and intuitive for stroke patients and their therapists.
 
 ---
