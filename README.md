@@ -6,6 +6,7 @@ The games provide engaging and therapeutic activities that target hand-eye coord
 
 ### 📝 **Project Overview**
 This game was developed as part of the FSE100 team project.  
+
 It includes three mini-games, each designed to address specific motor skills:
 
 🎵 **Rhythm Game** 
@@ -29,6 +30,7 @@ It includes three mini-games, each designed to address specific motor skills:
 
 ### 🧠 Why This Game Helps Stroke Patients
 This game helps stroke patients improve **fine motor skills** through engaging and repetitive activities.  
+
 Each mini-game targets specific abilities:  
 - **Rhythm Game**: Enhances timing and reaction speed.  
 - **Tracing Game**: Improves precision and steady hand control.  
@@ -54,8 +56,8 @@ Each mini-game targets specific abilities:
 
 ### 👤 My Contributions
 As part of a collaborative team project, I contributed significantly to the development and design of the game.  
-My specific contributions include:
 
+My specific contributions include:
 - **Stacking Game**: Led the development of the game mechanics, including object physics and collision handling.  
 - **Tracing Game**: Played a major role in coding the game logic for precision-based tracing activities.  
 - **Rhythm Game**: Provided support and assistance in developing the timing mechanics and overall functionality.  
