@@ -5,7 +5,8 @@ The games provide engaging and therapeutic activities that target hand-eye coord
 ---
 
 ### 📝 **Project Overview**
-This game was developed as part of the FSE100 team project. It includes three mini-games, each designed to address specific motor skills:
+This game was developed as part of the FSE100 team project.  
+It includes three mini-games, each designed to address specific motor skills:
 
 🎵 **Rhythm Game** 
 - Focuses on rhythmic tapping and timing.  
