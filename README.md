@@ -41,7 +41,7 @@ Each mini-game targets specific abilities:
 
 ### 💻 **Technologies Used**
 - **p5.js**: A JavaScript library for creative coding, used to build the games.
-- **HTML/CSS/JavaScript**: For creating and styling the game interfaces.
+- **JavaScript**: For creating and styling the game interfaces.
 
 ---
 
